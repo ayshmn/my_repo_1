@@ -40,6 +40,32 @@ print(type(c))
 print(type(d))
 
 
+# Type conversion of numbers
+
+a = 1 
+b = 10.5
+c = 6j
+
+x = float(a)
+y= int(b)
+z = complex(a)
+
+print(x)
+print(y)
+print(z)
+
+print(type(x))
+print(type(y))
+print(type(z))
+
+
+# Import random number
+
+import random
+print(random.randrange(1,10))
+
+
+
 
 
 
