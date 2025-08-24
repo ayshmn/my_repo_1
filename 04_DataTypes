@@ -37,7 +37,7 @@ print(x)
 
 # 7. Dictionery
 
-x ={"name" : "ayesha" , "month" : "april"}
+x = {"name" : "ayesha" , "month" : "april"}
 print(x)
 
 
